@@ -1,0 +1,63 @@
+[
+    {
+        "id": 1,
+        "name": "TechNova",
+        "location": "New York",
+        "industry": "Software"
+    },
+    {
+        "id": 2,
+        "name": "GreenSolutions",
+        "location": "San Francisco",
+        "industry": "Renewable Energy"
+    },
+    {
+        "id": 3,
+        "name": "HealthPlus",
+        "location": "Boston",
+        "industry": "Healthcare"
+    },
+    {
+        "id": 4,
+        "name": "EduSmart",
+        "location": "Chicago",
+        "industry": "Education"
+    },
+    {
+        "id": 5,
+        "name": "FinTechCorp",
+        "location": "New York",
+        "industry": "Finance"
+    },
+     {
+        "id": 5,
+        "name": "FinTechCorp",
+        "location": "New York",
+        "industry": "Finance"
+    }, {
+        "id": 5,
+        "name": "FinTechCorp",
+        "location": "New York",
+        "industry": "Finance"
+    }, {
+        "id": 5,
+        "name": "FinTechCorp",
+        "location": "New York",
+        "industry": "Finance"
+    }, {
+        "id": 5,
+        "name": "FinTechCorp",
+        "location": "New York",
+        "industry": "Finance"
+    }, {
+        "id": 5,
+        "name": "FinTechCorp",
+        "location": "New York",
+        "industry": "Finance"
+    }, {
+        "id": 5,
+        "name": "FinTechCorp",
+        "location": "New York",
+        "industry": "Finance"
+    }
+]
