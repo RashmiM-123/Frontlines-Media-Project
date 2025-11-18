@@ -1,63 +1,25 @@
 [
-    {
-        "id": 1,
-        "name": "TechNova",
-        "location": "New York",
-        "industry": "Software"
-    },
-    {
-        "id": 2,
-        "name": "GreenSolutions",
-        "location": "San Francisco",
-        "industry": "Renewable Energy"
-    },
-    {
-        "id": 3,
-        "name": "HealthPlus",
-        "location": "Boston",
-        "industry": "Healthcare"
-    },
-    {
-        "id": 4,
-        "name": "EduSmart",
-        "location": "Chicago",
-        "industry": "Education"
-    },
-    {
-        "id": 5,
-        "name": "FinTechCorp",
-        "location": "New York",
-        "industry": "Finance"
-    },
-     {
-        "id": 5,
-        "name": "FinTechCorp",
-        "location": "New York",
-        "industry": "Finance"
-    }, {
-        "id": 5,
-        "name": "FinTechCorp",
-        "location": "New York",
-        "industry": "Finance"
-    }, {
-        "id": 5,
-        "name": "FinTechCorp",
-        "location": "New York",
-        "industry": "Finance"
-    }, {
-        "id": 5,
-        "name": "FinTechCorp",
-        "location": "New York",
-        "industry": "Finance"
-    }, {
-        "id": 5,
-        "name": "FinTechCorp",
-        "location": "New York",
-        "industry": "Finance"
-    }, {
-        "id": 5,
-        "name": "FinTechCorp",
-        "location": "New York",
-        "industry": "Finance"
-    }
+  { "id": 1, "name": "TechNova", "location": "New York", "industry": "Software" },
+  { "id": 2, "name": "GreenSolutions", "location": "San Francisco", "industry": "Renewable Energy" },
+  { "id": 3, "name": "HealthPlus", "location": "Boston", "industry": "Healthcare" },
+  { "id": 4, "name": "EduSmart", "location": "Chicago", "industry": "Education" },
+  { "id": 5, "name": "FinTechCorp", "location": "New York", "industry": "Finance" },
+
+  { "id": 6, "name": "AquaPure", "location": "Seattle", "industry": "Water Technology" },
+  { "id": 7, "name": "CyberGuard", "location": "Austin", "industry": "Cybersecurity" },
+  { "id": 8, "name": "AgriNext", "location": "Kansas City", "industry": "Agriculture" },
+  { "id": 9, "name": "CloudSphere", "location": "Los Angeles", "industry": "Cloud Computing" },
+  { "id": 10, "name": "MediCore", "location": "Philadelphia", "industry": "Medical Devices" },
+
+  { "id": 11, "name": "AutoDrive", "location": "Detroit", "industry": "Automotive" },
+  { "id": 12, "name": "DataPulse", "location": "Denver", "industry": "Data Analytics" },
+  { "id": 13, "name": "BuildRight", "location": "Houston", "industry": "Construction" },
+  { "id": 14, "name": "BrightMedia", "location": "Los Angeles", "industry": "Media & Entertainment" },
+  { "id": 15, "name": "CleanTechLabs", "location": "Portland", "industry": "Clean Energy" },
+
+  { "id": 16, "name": "RetailWorks", "location": "Atlanta", "industry": "Retail" },
+  { "id": 17, "name": "FoodXpress", "location": "Miami", "industry": "Food Delivery" },
+  { "id": 18, "name": "NovaAI", "location": "San Jose", "industry": "Artificial Intelligence" },
+  { "id": 19, "name": "TravelHive", "location": "Orlando", "industry": "Travel & Hospitality" },
+  { "id": 20, "name": "UrbanLiving", "location": "Dallas", "industry": "Real Estate" }
 ]

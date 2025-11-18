@@ -4,23 +4,26 @@ import data from '../data/companies.json'
 
 const CompanyCard = () => {
   return (
-    <div className='bg-gray-200 border'>
+    // <div className='className="bg-[#E6E7EB] p-[20px] rounded-[16px]'>
+    <div className="bg-[#F3F4F6] p-8 rounded-2xl">
+
       <table>
         <thead>
-          <tr>
-            <th>Id</th>
-            <th>Name</th>
-            <th>Location</th>
-            <th>Industry</th>
+         <tr className="uppercase text-gray-700 font-medium text-sm tracking-wider">
+
+            <th className="text-left px-[16px] py-[16px]">Id</th>
+            <th className="text-left px-[16px] py-[16px]">Name</th>
+            <th className="text-left px-[16px] py-[16px]">Location</th>
+            <th className="text-left px-[16px] py-[16px]">Industry</th>
           </tr>
         </thead>
         <tbody>
         {data.map((item,index)=>(
            <tr key={index}>
-            <td>{item.id}</td>
-            <td>{item.name}</td>
-            <td>{item.location}</td>
-            <td>{item.industry}</td>
+            <td className="px-[16px] py-[16px]">{item.id}</td>
+            <td className="px-[16px] py-[16px]">{item.name}</td>
+            <td className="px-[16px] py-[16px]">{item.location}</td>
+            <td className="px-[16px] py-[16px]">{item.industry}</td>
            </tr>
         )
         )}
@@ -31,6 +34,9 @@ const CompanyCard = () => {
 }
 
 export default CompanyCard
+
+
+
 
 
 

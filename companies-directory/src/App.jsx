@@ -2,21 +2,20 @@ import { useState } from 'react'
 import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
 import CompanyCard from './component/CompanyCard'
+import FilterBar from './component/ FilterBar'
 
 
 function App() {
   
 
   return (
-    <div>
-      <h1>Companies directory</h1>
-      <CompanyCard/>
-<div className="text-[red] text-3xl font-bold border">
-  Tailwind is working!
+<div className="flex justify-center items-center ">
+  <div>
+    <h1 className='flex justify-center'>Companies directory</h1>
+    <FilterBar />
+    <CompanyCard />
+  </div>
 </div>
-
-
-    </div>
   )
 }
 
